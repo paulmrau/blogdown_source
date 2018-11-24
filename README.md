@@ -1,3 +1,0 @@
-# blogdown_source
-
-Testing
