@@ -14,7 +14,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  copyright = "&copy;2018 Paul M. Rau"
   sidebarAbout = [
     "I am an experienced dude.",
     "Currently based in Chicago."
@@ -47,10 +47,14 @@ googleAnalytics = ""
   name = "Get in touch"
   url = "contact/"
 
+  [[params.navlinks]]
+  name = "R posts"
+  url = "post/"
+
   [params.social]
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
+  email         = "paulmrau@juno.com"
+  twitter       = "https://twitter.com/PauMRau"
+  linkedin      = "https://www.linkedin.com/in/paul-rau-339494"
 
 
 
